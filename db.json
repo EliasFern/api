@@ -65,4 +65,50 @@
       "classificacao": "R",
       "sinopse": "Uma mãe e seu filho de cinco anos vivem em cativeiro, trancados em um pequeno quarto, até que encontram uma oportunidade de escapar. Joy e seu filho Jack vivem em um quarto pequeno, trancados por um homem chamado Old Nick. Para Jack, o quarto é o único mundo que ele conhece. Quando Joy percebe que é hora de Jack escapar, ela elabora um plano arriscado para libertá-los do cativeiro e enfrentar o mundo exterior.",
       "url_imagem": "https://br.web.img2.acsta.net/r_1920_1080/pictures/15/12/04/21/16/526380.jpg"
-   
+    },
+    {
+      "id": 7,
+      "nome": "O Lagosta",
+      "ano": 2015,
+      "diretor": "Yorgos Lanthimos",
+      "atores": ["Colin Farrell", "Rachel Weisz", "Léa Seydoux"],
+      "genero": ["Comédia", "Drama", "Romance"],
+      "classificacao": "R",
+      "sinopse": "Em um futuro distópico, solteiros são enviados para um hotel onde têm 45 dias para encontrar um parceiro, caso contrário, serão transformados em um animal. David, um homem recém-divorciado, é enviado para um hotel onde solteiros têm um prazo para encontrar um parceiro ou enfrentar uma transformação em um animal de sua escolha. Enquanto ele tenta encontrar o amor em um ambiente estranho e altamente regulamentado, ele se envolve em um romance proibido e planeja uma fuga.",
+      "url_imagem": "https://br.web.img3.acsta.net/r_1920_1080/pictures/15/08/05/23/34/092855.jpg"
+    },
+    {
+      "id": 8,
+      "nome": "Uncut Gems",
+      "ano": 2019,
+      "diretor": "Benny Safdie, Josh Safdie",
+      "atores": ["Adam Sandler", "Julia Fox", "Idina Menzel"],
+      "genero": ["Crime", "Drama", "Thriller"],
+      "classificacao": "R",
+      "sinopse": "Um joalheiro de Nova York arrisca tudo em busca de uma grande pontuação enquanto é perseguido por seus credores, ex-esposa e mais. Howard Ratner, um joalheiro carismático mas impulsivo, aposta alto ao adquirir uma pedra preciosa não lapidada, acreditando que ela lhe trará uma fortuna. No entanto, sua ganância e compulsão por jogos de azar o levam a uma espiral de problemas, colocando em risco tudo o que ele tem.",
+      "url_imagem": "https://br.web.img2.acsta.net/r_1920_1080/pictures/20/01/08/16/54/5502811.jpg"
+    },
+    {
+      "id": 9,
+      "nome": "A Ghost Story",
+      "ano": 2017,
+      "diretor": "David Lowery",
+      "atores": ["Casey Affleck", "Rooney Mara"],
+      "genero": ["Drama", "Fantasia"],
+      "classificacao": "R",
+      "sinopse": "Após morrer em um acidente de carro, um homem volta para casa como um fantasma para consolar sua esposa, apenas para descobrir que o tempo está se movendo de forma estranha. Quando um músico morre em um acidente de carro, ele retorna como um fantasma coberto por um lençol branco. Ele observa silenciosamente sua esposa lidar com sua perda enquanto o tempo passa de maneira não linear e ele se vê preso em uma casa que agora é ocupada por estranhos.",
+      "url_imagem": "https://br.web.img3.acsta.net/r_1920_1080/pictures/17/07/05/12/13/2854662.jpg"
+    },
+    {
+      "id": 10,
+      "nome": "A24",
+      "ano": 2019,
+      "diretor": "David Robert Mitchell",
+      "atores": ["Andrew Garfield", "Riley Keough", "Topher Grace"],
+      "genero": ["Mistério", "Drama", "Thriller"],
+      "classificacao": "R",
+      "sinopse": "Sam, um jovem desencantado que encontra uma mulher misteriosa mergulhada no escândalo e na conspiração em Los Angeles. Após testemunhar o assassinato de sua vizinha, Sam inicia uma investigação obscura que o leva a um mundo de segredos, mentiras e corrupção. Conforme ele mergulha mais fundo no mistério, ele descobre conexões surpreendentes entre os acontecimentos aparentemente desconexos ao seu redor.",
+      "url_imagem": "https://br.web.img3.acsta.net/r_1920_1080/pictures/19/08/06/17/07/3643944.jpg"
+    }
+  ]
+}
