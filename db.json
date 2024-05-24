@@ -1,0 +1,114 @@
+{
+  "filmes": [
+    {
+      "id": 1,
+      "nome": "Moonlight: Sob a Luz do Luar",
+      "ano": 2016,
+      "diretor": "Barry Jenkins",
+      "atores": ["Mahershala Ali", "Trevante Rhodes", "Naomie Harris"],
+      "genero": ["Drama"],
+      "classificacao": "R",
+      "sinopse": "Uma comovente história sobre a vida de um jovem negro desde a infância até a idade adulta, enquanto lida com questões de identidade, sexualidade e família.",
+      "url_imagem": "https://br.web.img2.acsta.net/r_1920_1080/pictures/16/10/14/18/01/345780.jpg"
+    },
+    {
+      "id": 2,
+      "nome": "Lady Bird: A Hora de Voar",
+      "ano": 2017,
+      "diretor": "Greta Gerwig",
+      "atores": ["Saoirse Ronan", "Laurie Metcalf", "Tracy Letts"],
+      "genero": ["Comédia", "Drama"],
+      "classificacao": "R",
+      "sinopse": "Uma jovem tenta escapar de sua cidade natal na Califórnia para ir estudar em Nova York, enquanto lida com conflitos familiares e a transição para a vida adulta.",
+      "url_imagem": "https://br.web.img3.acsta.net/r_1920_1080/pictures/17/10/17/19/30/1741478.jpg"
+    },
+    {
+      "id": 3,
+      "nome": "Hereditário",
+      "ano": 2018,
+      "diretor": "Ari Aster",
+      "atores": ["Toni Collette", "Alex Wolff", "Milly Shapiro"],
+      "genero": ["Terror", "Drama"],
+      "classificacao": "R",
+      "sinopse": "Após a morte da matriarca da família, coisas estranhas começam a acontecer com seus descendentes, revelando segredos sombrios do passado.",
+      "url_imagem": "https://br.web.img3.acsta.net/r_1920_1080/pictures/18/05/17/20/33/0709204.jpg"
+    },
+    {
+      "id": 4,
+      "nome": "A Bruxa",
+      "ano": 2015,
+      "diretor": "Robert Eggers",
+      "atores": ["Anya Taylor-Joy", "Ralph Ineson", "Kate Dickie"],
+      "genero": ["Terror", "Mistério"],
+      "classificacao": "R",
+      "sinopse": "Uma família puritana no século XVII na Nova Inglaterra é amaldiçoada por uma presença malévola em uma floresta próxima.",
+      "url_imagem": "https://br.web.img2.acsta.net/r_1920_1080/pictures/15/11/03/22/47/229192.jpg"
+    },
+    {
+      "id": 5,
+      "nome": "O Farol",
+      "ano": 2019,
+      "diretor": "Robert Eggers",
+      "atores": ["Robert Pattinson", "Willem Dafoe", "Valeriia Karaman"],
+      "genero": ["Fantasia", "Terror", "Drama"],
+      "classificacao": "R",
+      "sinopse": "Dois guardiões de um farol isolado começam a enlouquecer lentamente quando uma tempestade os mantém presos na ilha.",
+      "url_imagem": "https://br.web.img3.acsta.net/r_1920_1080/pictures/19/11/12/16/23/0738028.jpg"
+    },
+    {
+      "id": 6,
+      "nome": "O Quarto de Jack",
+      "ano": 2015,
+      "diretor": "Lenny Abrahamson",
+      "atores": ["Brie Larson", "Jacob Tremblay", "Joan Allen"],
+      "genero": ["Drama"],
+      "classificacao": "R",
+      "sinopse": "Uma mãe e seu filho de cinco anos vivem em cativeiro, trancados em um pequeno quarto, até que encontram uma oportunidade de escapar.",
+      "url_imagem": "https://br.web.img2.acsta.net/r_1920_1080/pictures/15/12/04/21/16/526380.jpg"
+    },
+    {
+      "id": 7,
+      "nome": "O Lagosta",
+      "ano": 2015,
+      "diretor": "Yorgos Lanthimos",
+      "atores": ["Colin Farrell", "Rachel Weisz", "Léa Seydoux"],
+      "genero": ["Comédia", "Drama", "Romance"],
+      "classificacao": "R",
+      "sinopse": "Em um futuro distópico, solteiros são enviados para um hotel onde têm 45 dias para encontrar um parceiro, caso contrário, serão transformados em um animal.",
+      "url_imagem": "https://br.web.img3.acsta.net/r_1920_1080/pictures/15/08/05/23/34/092855.jpg"
+    },
+    {
+      "id": 8,
+      "nome": "Uncut Gems",
+      "ano": 2019,
+      "diretor": "Benny Safdie, Josh Safdie",
+      "atores": ["Adam Sandler", "Julia Fox", "Idina Menzel"],
+      "genero": ["Crime", "Drama", "Thriller"],
+      "classificacao": "R",
+      "sinopse": "Um joalheiro de Nova York arrisca tudo em busca de uma grande pontuação enquanto é perseguido por seus credores, ex-esposa e mais.",
+      "url_imagem": "https://br.web.img2.acsta.net/r_1920_1080/pictures/20/01/08/16/54/5502811.jpg"
+    },
+    {
+      "id": 9,
+      "nome": "A Ghost Story",
+      "ano": 2017,
+      "diretor": "David Lowery",
+      "atores": ["Casey Affleck", "Rooney Mara"],
+      "genero": ["Drama", "Fantasia"],
+      "classificacao": "R",
+      "sinopse": "Após morrer em um acidente de carro, um homem volta para casa como um fantasma para consolar sua esposa, apenas para descobrir que o tempo está se movendo de forma estranha.",
+      "url_imagem": "https://br.web.img3.acsta.net/r_1920_1080/pictures/17/07/05/12/13/2854662.jpg"
+    },
+    {
+      "id": 10,
+      "nome": "A24",
+      "ano": 2019,
+      "diretor": "David Robert Mitchell",
+      "atores": ["Andrew Garfield", "Riley Keough", "Topher Grace"],
+      "genero": ["Mistério", "Drama", "Thriller"],
+      "classificacao": "R",
+      "sinopse": "Sam, um jovem desencantado que encontra uma mulher misteriosa mergulhada no escândalo e na conspiração em Los Angeles.",
+      "url_imagem": "https://br.web.img3.acsta.net/r_1920_1080/pictures/19/08/06/17/07/3643944.jpg"
+    }
+  ]
+}
